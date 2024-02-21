@@ -19,13 +19,27 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Allow anyone to create tickets
+- Configure Agents
+- Configure New Users
+- Configure SLAs
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
+
+<img src="https://i.imgur.com/iseuePm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
+<ul> 
+  <li><b>Note</b>: OsTicket features two panels: Agent and Admin. You can identify which panel you're currently in by checking if the opposite panel is displayed at the upper right-hand corner. </li>
+</ul>
+<img src="https://i.imgur.com/oJQr5sG.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
